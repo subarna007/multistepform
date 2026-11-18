@@ -1,6 +1,16 @@
-### Multi Step Form
-  This code is a simple multistep form with javascript. you can use this form in your site to get user data❗️
-this form is also responsive!
+# Multi-Step Form
 
-# Screenshot
-![screenshot](screenshot.jpg)
+A sign-up form split into three steps with a progress bar.
+
+## Features
+
+- Next and back buttons between steps
+- Progress indicator
+
+## Run it
+
+No build step. Open `index.html` in a browser, or serve the folder with any static server, for example `python -m http.server`.
+
+## Screenshots
+
+![Multi-Step Form screenshot](screenshot.jpg)
